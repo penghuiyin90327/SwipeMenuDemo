@@ -112,11 +112,6 @@
 	
 ```
 ##或者可以下载`Demo`提取`module`添加
-
-##另外说一点其他的,本人开学大四,喜欢`Android`开发,目前还没有确定的工作,如果您有推荐可以进入我的另外一个博客查看简历:[Brioal`s Blog](http://www.brioal.cn/wordpress/)
-##如果觉得我写的东西多多少少有一点可取之处,可以点个star,多的话也能写到简历装一下是吧~~麻烦了
-##大部分大学应该是不开`Android`开发的,在这里与所有自学`Android`的同学们共勉~自学不容易啊!!
-##另外我建了个qq群,方便交流,欢迎各种大神,新手老手加入,群号码:`375276053`
-##差点忘了,本库用到的一些代码片段来自网络,贴一下地址,感谢大神的代码:
+##本库用到的一些代码片段来自网络,贴一下地址,感谢大神的代码:
 ###[沉浸状态栏](https://github.com/laobie/StatusBarUtil)
 ###[教你一分钟实现动态模糊效果](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236619&idx=1&sn=7f4f97babcad9f62607e544efaf2d86e&scene=23&srcid=0809CmU7E9JVZ0ZIyCvG4nLh#rd)
